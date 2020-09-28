@@ -8,7 +8,7 @@ Multiple runs (technical replicates) will be merged.
 ## Setup
 
 * clone this directory. 
-* download a RunTable from SRA that comprises teh samples of interest and place it into this directory.
+* download a RunTable from SRA that comprises the samples of interest and place it into this directory.
 * edit the file config.yaml providing the web locations of genome fasta and gff file.
 * create a conda environment specified in sra_star_rsem.yaml.
 
